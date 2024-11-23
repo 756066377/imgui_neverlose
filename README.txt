@@ -1,9 +1,6 @@
-See BACKENDS and EXAMPLES files in the docs/ folder, or on the web at: https://github.com/ocornut/imgui/tree/master/docs
+# 仿制 Neverlose 风格的 ImGui 菜单
 
-Backends = Helper code to facilitate integration with platforms/graphics api (used by Examples + should be used by your app).
-Examples = Standalone applications showcasing integration with platforms/graphics api.
+## 简介
+这是一个仿制 Neverlose 风格的 ImGui 菜单项目。该项目旨在提供一个高质量的 UI 体验，模仿 Neverlose 的外观和感觉。
+证)
 
-Some Examples have extra README files in their respective directory, please check them too!
-
-Once Dear ImGui is running (in either examples or your own application/game/engine),
-run and refer to ImGui::ShowDemoWindow() in imgui_demo.cpp for the end-user API.
